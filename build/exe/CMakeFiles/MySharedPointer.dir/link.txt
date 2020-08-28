@@ -1,0 +1,1 @@
+/usr/bin/g++-7 -g CMakeFiles/MySharedPointer.dir/Main.cpp.o -o MySharedPointer  ../SharedPointer/libSharedPointer.a ../FlyweightWithGC/libFlyweightWithGC.a ../SharedPointer/libSharedPointer.a 

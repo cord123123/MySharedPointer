@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "SharedPointer",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SharedPointer",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "FlyweightWithGC",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "FlyweightWithGC",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "exe",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exe",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MySharedPointer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "FlyweightWithGC::@76cfe94bf0addd088d47",
+					"jsonFile" : "target-FlyweightWithGC-Debug-71b24c52ec69f87a38bc.json",
+					"name" : "FlyweightWithGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MySharedPointer::@1adb794e6196958d9c49",
+					"jsonFile" : "target-MySharedPointer-Debug-f590a0af1a85b9353b6b.json",
+					"name" : "MySharedPointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SharedPointer::@b0047c7230c0ee5c6284",
+					"jsonFile" : "target-SharedPointer-Debug-752bde30fe8d48363820.json",
+					"name" : "SharedPointer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dawid/Pulpit/MySharedPointer/build",
+		"source" : "/home/dawid/Pulpit/MySharedPointer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

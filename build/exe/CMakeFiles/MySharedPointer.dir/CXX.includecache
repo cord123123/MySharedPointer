@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../FlyweightWithGC/src/FlyweightWithGC.hpp
+SharedPointer.hpp
+../FlyweightWithGC/src/SharedPointer.hpp
+vector
+-
+thread
+-
+chrono
+-
+algorithm
+-
+iostream
+-
+
+../SharedPointer/src/SharedPointer.hpp
+iostream
+-
+
+/home/dawid/Pulpit/MySharedPointer/exe/Main.cpp
+iostream
+-
+SharedPointer.hpp
+/home/dawid/Pulpit/MySharedPointer/exe/SharedPointer.hpp
+vector
+-
+FlyweightWithGC.hpp
+/home/dawid/Pulpit/MySharedPointer/exe/FlyweightWithGC.hpp
+boost/version.hpp
+-
+

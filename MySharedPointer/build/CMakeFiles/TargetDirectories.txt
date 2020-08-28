@@ -1,8 +1,0 @@
-/home/dawid/Pulpit/MySharedPointer/build/CMakeFiles/rebuild_cache.dir
-/home/dawid/Pulpit/MySharedPointer/build/CMakeFiles/edit_cache.dir
-/home/dawid/Pulpit/MySharedPointer/build/SharedPointer/CMakeFiles/rebuild_cache.dir
-/home/dawid/Pulpit/MySharedPointer/build/SharedPointer/CMakeFiles/SharedPointer.dir
-/home/dawid/Pulpit/MySharedPointer/build/SharedPointer/CMakeFiles/edit_cache.dir
-/home/dawid/Pulpit/MySharedPointer/build/exe/CMakeFiles/rebuild_cache.dir
-/home/dawid/Pulpit/MySharedPointer/build/exe/CMakeFiles/MySharedPointer.dir
-/home/dawid/Pulpit/MySharedPointer/build/exe/CMakeFiles/edit_cache.dir

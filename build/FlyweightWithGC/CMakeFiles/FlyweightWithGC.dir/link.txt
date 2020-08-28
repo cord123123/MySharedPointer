@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFlyweightWithGC.a CMakeFiles/FlyweightWithGC.dir/src/FlyweightWithGC.cpp.o
+/usr/bin/ranlib libFlyweightWithGC.a

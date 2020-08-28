@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SharedPointer/src/SharedPointer.hpp
+iostream
+-
+
+/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/FlyweightWithGC.cpp
+FlyweightWithGC.hpp
+/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/FlyweightWithGC.hpp
+
+/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/FlyweightWithGC.hpp
+SharedPointer.hpp
+/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/SharedPointer.hpp
+vector
+-
+thread
+-
+chrono
+-
+algorithm
+-
+iostream
+-
+

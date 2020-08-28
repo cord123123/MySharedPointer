@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/dawid/Pulpit/MySharedPointer/build/SharedPointer",
+  "command": "/usr/bin/g++-7  -I/home/dawid/Pulpit/MySharedPointer/SharedPointer/src -g -o CMakeFiles/SharedPointer.dir/src/SharedPointer.cpp.o -c /home/dawid/Pulpit/MySharedPointer/SharedPointer/src/SharedPointer.cpp",
+  "file": "/home/dawid/Pulpit/MySharedPointer/SharedPointer/src/SharedPointer.cpp"
+},
+{
+  "directory": "/home/dawid/Pulpit/MySharedPointer/build/FlyweightWithGC",
+  "command": "/usr/bin/g++-7  -I/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src -I/home/dawid/Pulpit/MySharedPointer/SharedPointer/src -g -o CMakeFiles/FlyweightWithGC.dir/src/FlyweightWithGC.cpp.o -c /home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/FlyweightWithGC.cpp",
+  "file": "/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src/FlyweightWithGC.cpp"
+},
+{
+  "directory": "/home/dawid/Pulpit/MySharedPointer/build/exe",
+  "command": "/usr/bin/g++-7  -I/home/dawid/Pulpit/MySharedPointer/SharedPointer/src -I/home/dawid/Pulpit/MySharedPointer/FlyweightWithGC/src -g -std=gnu++1z -o CMakeFiles/MySharedPointer.dir/Main.cpp.o -c /home/dawid/Pulpit/MySharedPointer/exe/Main.cpp",
+  "file": "/home/dawid/Pulpit/MySharedPointer/exe/Main.cpp"
+}
+]

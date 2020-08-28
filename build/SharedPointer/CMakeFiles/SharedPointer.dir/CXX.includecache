@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawid/Pulpit/MySharedPointer/SharedPointer/src/SharedPointer.cpp
+SharedPointer.hpp
+/home/dawid/Pulpit/MySharedPointer/SharedPointer/src/SharedPointer.hpp
+
+/home/dawid/Pulpit/MySharedPointer/SharedPointer/src/SharedPointer.hpp
+iostream
+-
+
